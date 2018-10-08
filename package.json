@@ -1,0 +1,25 @@
+{
+  "name": "hacktoberfest-git-walking",
+  "version": "1.0.0",
+  "description": "Walk your git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingonsaft/hacktoberfest-git-walking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingonsaft/hacktoberfest-git-walking/issues"
+  },
+  "homepage": "https://github.com/lingonsaft/hacktoberfest-git-walking#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "puppeteer": "^1.9.0",
+    "simple-git": "^1.104.0"
+  }
+}
