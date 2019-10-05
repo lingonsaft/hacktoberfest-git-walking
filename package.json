@@ -19,7 +19,11 @@
   "homepage": "https://github.com/lingonsaft/hacktoberfest-git-walking#readme",
   "dependencies": {
     "async": "^2.6.1",
+    "cheerio": "0.22.0",
+    "jsonfile": "^5.0.0",
     "puppeteer": "^1.9.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
     "simple-git": "^1.104.0"
   }
 }
